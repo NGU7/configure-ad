@@ -53,10 +53,10 @@ To officially connect the new client to the active directories domain, we need t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1243" alt="Unlocking accounts whos password failed Too many times" src="https://github.com/user-attachments/assets/21a07a4f-634e-4c8c-a14b-d2486fd94c82" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Account lockout policy works hand in hand with the "unlock account" feature in the active directory. This permits users to keep trying their passwords or even allowing the admin to reset a user's password if necessary.
 </p>
 <br />
 
