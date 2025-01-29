@@ -45,9 +45,18 @@ To officially connect the new client to the active directories domain, we need t
 <br />
 
 <p>
+<img width="1440" alt="Account Lockout Policy" src="https://github.com/user-attachments/assets/b9ddcd61-641a-4da7-9c06-192096501004" />
+</p>
+<p>
+  One frequently used policy is the account lockout policy, commonly used for limiting the times a user on the domain can log in before being locked out. 
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
